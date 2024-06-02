@@ -8,3 +8,6 @@ Bioingeniería
 Basado en la competencia de Kaggle "UDEA/ai4eng 20241 - Pruebas Saber Pro Colombia"
 https://www.kaggle.com/competitions/udea-ai4eng-20241
 
+Video Entrega 2: https://youtu.be/Suj33-5GxJk
+
+Video Entrega Final: https://youtu.be/DKdRcGH8lK8
